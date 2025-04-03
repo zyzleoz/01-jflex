@@ -10,4 +10,4 @@
 
 /* Regras e Ações Associadas: seção de instruções para o analisador léxico. */
 
-\t {System.out.println("TAB");} //Isso é uma regra.
+\t {System.out.print("TAB ");} //Isso é uma regra.
