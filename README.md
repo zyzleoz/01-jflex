@@ -9,6 +9,7 @@
 
 ## Arquivo: exemplo01.flex
 
+<pre>
 /* Definição: seção para código do usuário. */
 
 
@@ -23,6 +24,7 @@
 /* Regras e Ações Associadas: seção de instruções para o analisador léxico. */
 
 \t {System.out.print("TAB ");} //Isso é uma regra.
+</pre>
 
 ## Arquivo: entrada01.txt:
 <pre>
