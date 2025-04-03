@@ -5,9 +5,9 @@
 
 `sudo apt install jflex`
 
-# Exemplo 01: 
+# Exemplo: 
 
-## Arquivo: exemplo01.flex
+## Arquivo: exemplo.flex
 
 <pre>
 /* Definição: seção para código do usuário. */
@@ -46,7 +46,7 @@ Bla bla bla...
 </pre>
 
 ## Execução:
-`jflex exemplo01.flex`
+`jflex exemplo.flex`
 
 `javac Yylex.java`
 
