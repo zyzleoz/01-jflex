@@ -54,3 +54,10 @@ Bla bla bla...
 `java Yylex entrada01.txt > saida01.txt`
 
 `java Yylex entrada02.txt > saida02.txt`
+
+# Git
+`git add .`
+
+`git commit -m "Exemplo"`
+
+`git push`
