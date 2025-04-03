@@ -21,7 +21,9 @@
 
 %%
 
-/* Regras e Ações Associadas: seção de instruções para o analisador léxico. */
+/* Regras e Ações Associadas: seção de instruções para o 
+ * analisador léxico. 
+ */
 
 \t {System.out.print("TAB ");} //Isso é uma regra.
 </pre>
