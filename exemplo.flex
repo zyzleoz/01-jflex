@@ -4,7 +4,8 @@
 
 /* Opções e Declarações: seção para diretivas e macros. */
 
-%standalone
+// Diretiva:
+%standalone // Execução independente do analisador sintático.
 
 %%
 
